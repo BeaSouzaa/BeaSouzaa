@@ -21,6 +21,4 @@
    <img align = "right" alt "Bea-Gif" height = "150" width= "200" src="https://c.tenor.com/8zdWsCO3uVcAAAAM/ugandan-knuckles.gif" width="40" height="40" />
   
 
-</div>
- <p align="center"> Total de Visitas no perfil :detective: <br> <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/BeaSouzaa/count.svg" />
->
+</div

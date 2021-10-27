@@ -21,6 +21,7 @@
   <img align="center" alt="Bea-MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
   <img align="center" alt="Bea-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bea-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <div style="display: inline_block"><br <>
    <img align = "right" alt "Bea-Gif" height = "150" width= "200" src="https://c.tenor.com/8zdWsCO3uVcAAAAM/ugandan-knuckles.gif" />
   
 

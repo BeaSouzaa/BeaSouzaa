@@ -13,7 +13,7 @@
   <a href="https://github.com/BeaSouzaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeaSouzaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaSouzaa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div><img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BeaSouzaa&layout=compact&langs_count=7&theme=radical" />
 <div style="display: inline_block"><br>
   <img align = "center" alt ="Bea-Java" height= "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Bea-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
@@ -23,5 +23,5 @@
   
 
 </div>
- 
+ <p align="center"> Total de Visitas no perfil :detective: <br> <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/BeaSouzaa/count.svg" />
 >

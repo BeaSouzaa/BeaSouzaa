@@ -22,6 +22,6 @@
    <img align = "right" alt "Bea-Gif" height = "150" width= "200" src="https://media3.giphy.com/media/3otPoo8NDLOmzvTJF6/giphy.gif" />
   
 
-</div
+    </div>
     ![Snake animation](https://github.com/BeaSouzaa/BeaSouzaa/blob/output/github-contribution-grid-snake.svg)
 

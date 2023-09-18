@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=BeaSouzaa&show_icons=true&theme=dracula" height="180em/>
   </a>
   <a href="https://github.com/BeaSouzaa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaSouzaa&layout=compact&langs_count=7&theme=dracula" height="160em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaSouzaa&layout=compact&langs_count=7&theme=dracula&hide=issues,contribs" height="160em" />
   </a>
 </div>
 

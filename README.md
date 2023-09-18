@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🌱 Desenvolvedora Full Stack Java Jr.
+- 🌱 Desenvolvedora Full Stack Java
 - 🧮 QA na AB-Inbev.
 - 📫 Entre em contato: beatrizgsouza.bgs@gmail.com.
 - 😄 Pronomes: Ela/Her.

@@ -22,4 +22,62 @@
   <img align = "right" alt "Bea-Gif" height = "150" width= "200" src="https://media3.giphy.com/media/3otPoo8NDLOmzvTJF6/giphy.gif">
   
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .snake-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .snake {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    animation: eat 2s linear infinite;
+  }
+
+  .project {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-right: 10px;
+    animation: appear 2s linear infinite;
+  }
+
+  @keyframes eat {
+    0% {
+      width: 50px;
+    }
+    50% {
+      width: 0;
+    }
+    100% {
+      width: 50px;
+    }
+  }
+
+  @keyframes appear {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="snake-container">
+  <div class="snake"></div>
+  <div class="project"></div>
+  <div class="project"></div>
+  <div class="project"></div>
+</div>
+</body>
+</html>
 

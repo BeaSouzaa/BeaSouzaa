@@ -27,8 +27,6 @@
   <img align="center" alt="Bea-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
-## Projetos
-
 <div align="center">
   <img alt="Bea-Gif" height="150" width="200" src="https://media3.giphy.com/media/3otPoo8NDLOmzvTJF6/giphy.gif">
 </div>

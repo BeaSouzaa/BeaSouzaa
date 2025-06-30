@@ -51,6 +51,6 @@
 ## 🐍 Commit Snake
 
 <div align="center">
-  <img alt="Snake eating commits" height="150" width="400" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" />
+  <img alt="Snake eating commits" height="150" width="400" src="https://github.com/BeaSouzaa/BeaSouzaa/blob/output/github-contribution-grid-snake.svg" />
   <p><i>Comendo commits e evoluindo sempre!</i></p>
 </div>

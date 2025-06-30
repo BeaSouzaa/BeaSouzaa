@@ -1,12 +1,14 @@
-# Olá! Eu sou a Beatriz Souza! 👋
+# Beatriz Souza 👩‍💻
 
 ## Sobre mim
 
-- 🌱 Desenvolvedora Full Stack Java
-- 🧪 QA na AB-Inbev
-- 🧪 Software Test Engineer no AgiBank
-- 📫 Entre em contato: [beatrizgsouza.bgs@gmail.com](mailto:beatrizgsouza.bgs@gmail.com)
-- 😄 Pronomes: Ela/Her
+- 🌱 Desenvolvedora Full Stack Java  
+- 🧪 QA na AB-Inbev  
+- 🧪 Software Test Engineer no AgiBank  
+- 🎓 MBA em Gestão de Produtos  
+- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas  
+- 📫 Contato: [beatrizgsouza.bgs@gmail.com](mailto:beatrizgsouza.bgs@gmail.com)  
+- 🏷️ Pronomes: Ela/Her  
 
 ---
 
@@ -17,23 +19,25 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=BeaSouzaa&show_icons=true&theme=dracula&hide=issues,contribs" 
       alt="Beatriz Souza GitHub Stats" 
-      height="180em"
+      height="160em"
+      style="border-radius:10px;"
     />
   </a>
   <a href="https://github.com/BeaSouzaa">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeaSouzaa&layout=compact&langs_count=7&theme=dracula" 
       alt="Beatriz Souza Top Languages" 
-      height="160em" 
+      height="140em" 
+      style="border-radius:10px;"
     />
   </a>
 </div>
 
 ---
 
-## Tecnologias
+## Tecnologias & Ferramentas
 
-<div style="display: inline_block">
+<div style="display: inline-block;">
   <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -44,6 +48,9 @@
 
 ---
 
+## 🐍 Commit Snake
+
 <div align="center">
-  <img alt="Coding Gif" height="150" width="200" src="https://media3.giphy.com/media/3otPoo8NDLOmzvTJF6/giphy.gif" />
+  <img alt="Snake eating commits" height="150" width="400" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" />
+  <p><i>Comendo commits e evoluindo sempre!</i></p>
 </div>
